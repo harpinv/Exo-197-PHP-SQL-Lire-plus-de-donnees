@@ -15,7 +15,7 @@ p{
     padding-left: 20px;
 }
 
-body{
+div{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
